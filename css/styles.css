@@ -1,12 +1,12 @@
 body {
   font-family: "Yantramanav", sans-serif; }
 
-a {
+a.navItem {
   position: relative;
-  color: #13CBC4;
+  color: #707070;
   text-decoration: none; }
 
-a:before {
+a.navItem:before {
   content: "";
   position: absolute;
   width: 100%;
@@ -20,12 +20,12 @@ a:before {
   -webkit-transition: all 0.3s ease-in-out 0s;
   transition: all 0.3s ease-in-out 0s; }
 
-a:hover:before {
+a.navItem:hover:before {
   visibility: visible;
   -webkit-transform: scaleX(1);
   transform: scaleX(1); }
 
-a:hover {
+a.navItem:hover {
   color: #707070;
   text-decoration: none; }
 
@@ -54,5 +54,23 @@ h1 {
   font-size: 2em;
   margin-top: 5em;
   margin-bottom: 5em; }
+
+.project {
+  object-fit: cover; }
+
+.links {
+  justify-content: center; }
+
+.behance {
+  width: 33px;
+  height: 33px; }
+
+.linkIcon {
+  width: 25px;
+  height: 25px; }
+
+.copy {
+  font-family: "Yantramanav", sans-serif;
+  font-weight: 100; }
 
 /*# sourceMappingURL=styles.css.map */
