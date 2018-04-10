@@ -1,0 +1,69 @@
+{
+    "posts": [
+    {
+        "title": "Chapter ? - Gitting There",
+        "text": "Welcome to the first chapter of the rest of my life.  I'll admit, I'm a few chapters into my life story, but this seems like a great place to start.  I'm on a brand new adventure which includes a new city, new people and a new career!  
+        
+        For most of my life, I grew up in a small town in central Wisconsin.  I went to college in a small town in western Wisconsin.  After college, I moved to the great big city of Minneapolis.  That blew my mind, but what also blew my mind was there even more exotic places out there.  Shortly after college, my college roommate and I decided to take contorl of our lives and see what life was like oustide the Midwest.  We packed up our Wisconsin t-shirts and decor and moved down to Nashville, TN.  So exotic, I know, but to us it was.  It's a hot, hot place here in the middle of July, which happened to be when we moved.  Also, the world ends when it snows.  People say ya'll all the time and you find out you've been putting way too much effort into annunciating your words.  For me, Nashville was an opportunity for a brand new experience.  The small town feel in a big city excited me and I am all about the local business/artist scene.  
+        
+        Moving here did not disappoint, but I was well aware of the limited number of jobs for me as an Industrial Designer.  Still, I admired the city for all it was and knew everything would work out.  While considering my options I quickly became facinated by User Experience Design.  I couldn't believe I hadn't thought of it before.  It was everything I loved about design, just using a different medium.  Determined to pursue this further, I went out of my comfort zone and attended the Nashville User Experience Design meetup group.  It was there that I met local designers who were eager to point me in the direction of Nashville Software School.  Without hesitation, I applied and here I am, enrolled in the UX/UI Designer/Front-End Developer Bootcamp and the adventure starts NOW."
+    }, 
+    {
+        "title": "Week 1 - Gitting Started",
+        "text": "Our first week of UX Designer/Front-End Developer Bootcamp - Here's to a whole lot of firsts!  The first day of class, was full of meeting new people and becoming familiar with what will be my life the next six months.  With my Industrial Design background, the design aspect was very familiar to me, however the tech side was completely new.  What is a terminal?  What is GitHub? I barely know what HTML or CSS is.  And don't even get me started on Javascript.  Start small though!  Number one take away from this week, terminal isn't going to kill you." 
+    }, 
+    {
+        "title": "Week 2 - Gitting Git",
+        "text": "It's week 2, I now am Gitting GitHub.  And what... our first project already!  Even with a snow day set back, I'm excited to dig in and just whip up a website, right?  Wrong, I've found that I can prototype the simplest layout on Adobe XD, yet no matter how hard I try, I can't drag the boxes around on the screen when I'm coding.  So much frustration realizing that coding doesn't function like the Adobe Suite programs in any way!  And then there's github.  I get github, but i don't, but I do... definatley experiencing the roller coaster ride I was warned about.  On the bright side, I'm loving the correlation between Industrial Design and UX Design.  Developing personas and problem statements is nothing new to me."
+        
+    }, 
+    {
+        "title": "Week 3 - Gitting SNOW",
+        "text": "Snow week, WTF Nashville shuts down!"
+    }, 
+    {
+        "title": "week 4 Gitt",
+        "text": "It's week 3, Javascript time.  Just when I thought I was all caught up, NO.  Another group project.  The part of the project I focused on was the rebranding.  I enjoyed the project, in my comfort zone, I know, but I'll get there, give me time.   It taught me a lot of css and I am excited about both my knowledge in css and html, buttttt javascript can disappearn any day now.  and what is flexbox, I am all about the absolute positioning right now.  My struggles, billable hours.  Working in a way that is efficient to get quality results in tight time constraints." 
+    }, 
+    {
+        "title": "week 5 gitt",
+        "text": "I get flexbox.  amazing how when your forced to use something how easy it then comes.  Also anothere milestone was understanding functions in javascript.  We also were introduced to Sass and bootstrap."  
+    }, 
+    {
+        "title": "week 6 gitt",
+        "text": "learning grunt"  
+    }, 
+    {
+        "title": "week 7 gitt",
+        "text": "chat room app"  
+    }, 
+    {
+        "title": "week 8 gitt",
+        "text": "map project"  
+    },
+    {
+        "title": "week 9 gitt",
+        "text": "firebase"  
+    },
+    {
+        "title": "week 10 gitt",
+        "text": "news project"  
+    },
+    {
+        "title": "week 11 gitt",
+        "text": "capstone - design"  
+    },
+    {
+        "title": "week 12 gitt",
+        "text": "capstone - code"  
+    },
+    {
+        "title": "week 13 gitt",
+        "text": "charleston"  
+    },
+    {
+        "title": "week 14 gitt",
+        "text": "react"  
+    }      
+]
+}
