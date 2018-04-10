@@ -73,4 +73,10 @@ h1 {
   font-family: "Yantramanav", sans-serif;
   font-weight: 100; }
 
+.video {
+  display: block;
+  margin: 0 auto;
+  width: 640;
+  text-align: center; }
+
 /*# sourceMappingURL=styles.css.map */
