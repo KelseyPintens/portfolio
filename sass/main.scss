@@ -1,4 +1,5 @@
 $font: 'Yantramanav', sans-serif;
+$bodyFont: 'Roboto', sans-serif;
 $gray: #707070;
 $green: #13CBC4;
 
@@ -98,3 +99,99 @@ h1 {
     width: 640;
     text-align: center;
 }
+
+.profilePic {
+    border-radius: 5%;
+    margin-bottom: 10em;
+}
+
+.aboutMe {
+    justify-content: center;
+}
+
+.aboutText {
+    width: 35%;
+}
+
+.aboutTextHeading {
+    font-family: $bodyFont;
+    font-weight: 400;
+    color: $gray;
+}
+
+.aboutTextBody {
+    font-family: $bodyFont;
+    font-weight: 100;
+    color: $gray;
+}
+
+.resume {
+    color: $green;
+}
+
+.resume:hover {
+    color: $green;
+}
+
+.hvrbox,
+.hvrbox * {
+	box-sizing: border-box;
+}
+.hvrbox {
+	position: relative;
+	display: inline-block;
+	overflow: hidden;
+	max-width: 100%;
+	height: auto;
+}
+.hvrbox img {
+	max-width: 100%;
+}
+.hvrbox .hvrbox-layer_bottom {
+	display: block;
+}
+.hvrbox .hvrbox-layer_top {
+	opacity: 0;
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	width: 100%;
+	height: 100%;
+	background: rgba(60, 191, 189, 0.8);
+	color: #fff;
+	padding: 15px;
+	-moz-transition: all 0.4s ease-in-out 0s;
+	-webkit-transition: all 0.4s ease-in-out 0s;
+	-ms-transition: all 0.4s ease-in-out 0s;
+	transition: all 0.4s ease-in-out 0s;
+}
+.hvrbox:hover .hvrbox-layer_top,
+.hvrbox.active .hvrbox-layer_top {
+	opacity: 1;
+}
+.hvrbox .hvrbox-text {
+	text-align: center;
+	display: inline-block;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	-moz-transform: translate(-50%, -50%);
+	-webkit-transform: translate(-50%, -50%);
+	-ms-transform: translate(-50%, -50%);
+	transform: translate(-50%, -50%);
+}
+
+.hvrboxHeading {
+    font-family: $bodyFont;
+    font-size: 3em;
+    font-weight: 300; 
+}
+
+.hvrboxBody {
+    font-family: $font;
+    font-size: 2em;
+    font-weight: 100; 
+}
+
