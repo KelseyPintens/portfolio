@@ -1,10 +1,12 @@
 body {
-  font-family: "Yantramanav", sans-serif; }
+  font-family: "Yantramanav", sans-serif;
+}
 
 a.navItem {
   position: relative;
   color: #707070;
-  text-decoration: none; }
+  text-decoration: none;
+}
 
 a.navItem:before {
   content: "";
@@ -18,65 +20,77 @@ a.navItem:before {
   -webkit-transform: scaleX(0);
   transform: scaleX(0);
   -webkit-transition: all 0.3s ease-in-out 0s;
-  transition: all 0.3s ease-in-out 0s; }
+  transition: all 0.3s ease-in-out 0s;
+}
 
 a.navItem:hover:before {
   visibility: visible;
   -webkit-transform: scaleX(1);
-  transform: scaleX(1); }
+  transform: scaleX(1);
+}
 
 a.navItem:hover {
   color: #707070;
-  text-decoration: none; }
+  text-decoration: none;
+}
 
 .wrap {
-  width: 80%; }
+  width: 80%;
+}
 
 .main-nav {
-  justify-content: space-between; }
+  justify-content: space-between;
+}
 
 .name {
   font-weight: 100;
   color: #707070;
-  font-size: 1.5em; }
+  font-size: 1.5em;
+}
 
 .pageItem {
   font-weight: 400;
-  color: #707070; }
+  color: #707070;
+}
 
 .navItem {
   font-weight: 100;
-  color: #707070; }
+  color: #707070;
+}
 
 h1 {
   color: #13CBC4;
   font-weight: 100;
   font-size: 2em;
   margin-top: 5em;
-  margin-bottom: 5em; }
+  margin-bottom: 5em;
+}
 
 .project {
-  object-fit: cover; }
+  object-fit: cover;
+}
+
+.proj {
+  justify-content: space-between;
+}
 
 .links {
-  justify-content: center; }
-
-.behance {
-  width: 33px;
-  height: 33px; }
+  justify-content: center;
+}
 
 .linkIcon {
-  width: 25px;
-  height: 25px; }
+  width: 30px;
+  height: 30px;
+}
 
 .copy {
   font-family: "Yantramanav", sans-serif;
-  font-weight: 100; }
+  font-weight: 100;
+}
 
 .video {
   display: block;
   margin: 0 auto;
   width: 640;
-  text-align: center; }
-
-/*# sourceMappingURL=styles.css.map */
+  text-align: center;
+}
