@@ -1,10 +1,10 @@
 body {
-  font-family: "Yantramanav", sans-serif;
+  font-family: "Roboto", sans-serif;
 }
 
 a.navItem {
   position: relative;
-  color: #707070;
+  color: #242424;
   text-decoration: none;
 }
 
@@ -30,7 +30,7 @@ a.navItem:hover:before {
 }
 
 a.navItem:hover {
-  color: #707070;
+  color: #242424;
   text-decoration: none;
 }
 
@@ -44,23 +44,23 @@ a.navItem:hover {
 
 .name {
   font-weight: 100;
-  color: #707070;
+  color: #242424;
   font-size: 1.5em;
 }
 
 .pageItem {
   font-weight: 400;
-  color: #707070;
+  color: #242424;
 }
 
 .navItem {
   font-weight: 100;
-  color: #707070;
+  color: #242424;
 }
 
 h1 {
   color: #13CBC4;
-  font-weight: 100;
+  font-weight: 300;
   font-size: 2em;
   margin-top: 5em;
   margin-bottom: 5em;
@@ -84,7 +84,6 @@ h1 {
 }
 
 .copy {
-  font-family: "Yantramanav", sans-serif;
   font-weight: 100;
 }
 
@@ -109,15 +108,13 @@ h1 {
 }
 
 .aboutTextHeading {
-  font-family: "Roboto", sans-serif;
   font-weight: 400;
-  color: #707070;
+  color: #242424;
 }
 
 .aboutTextBody {
-  font-family: "Roboto", sans-serif;
   font-weight: 100;
-  color: #707070;
+  color: #242424;
 }
 
 .resume {
@@ -185,13 +182,31 @@ h1 {
 }
 
 .hvrboxHeading {
-  font-family: "Roboto", sans-serif;
   font-size: 3em;
   font-weight: 300;
 }
 
 .hvrboxBody {
-  font-family: "Yantramanav", sans-serif;
   font-size: 2em;
   font-weight: 100;
+}
+
+.projectName {
+  color: #242424;
+  font-weight: 400;
+  font-size: 3em;
+  margin-top: 2em;
+}
+
+.projectDescription {
+  font-weight: 100;
+  color: #242424;
+  width: 60%;
+}
+
+.title {
+  color: #27c3ed;
+  font-weight: 400;
+  font-size: 1.5em;
+  margin-top: 6em;
 }
