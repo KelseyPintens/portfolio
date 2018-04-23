@@ -201,13 +201,33 @@ h1 {
 .projectDescription {
     font-weight: 100;
     color: $black;
-    width: 60%;
+    width: 50%;
+    font-size: 1.125em;
+}
+
+.projectText {
+    font-weight: 100;
+    color: $black;
+    font-size: 1.125em;
 }
 
 .title {
     color: $blue;
     font-weight: 400;
-    font-size: 1.5em;
     margin-top: 6em;
+    font-size: 1.5em;
 }
 
+.wrapBody {
+    width: 60%;
+}
+
+.text {
+    font-size: 1.125em;
+}
+
+.data {
+    color: $blue;
+    font-size: 1.5em;
+    margin-top: 1em;
+}

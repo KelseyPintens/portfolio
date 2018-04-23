@@ -22,48 +22,52 @@
         "text": "Snow week, WTF Nashville shuts down!"
     }, 
     {
-        "title": "week 4 Gitt",
+        "title": "week 4 - Gitting Style",
         "text": "It's week 3, Javascript time.  Just when I thought I was all caught up, NO.  Another group project.  The part of the project I focused on was the rebranding.  I enjoyed the project, in my comfort zone, I know, but I'll get there, give me time.   It taught me a lot of css and I am excited about both my knowledge in css and html, buttttt javascript can disappearn any day now.  and what is flexbox, I am all about the absolute positioning right now.  My struggles, billable hours.  Working in a way that is efficient to get quality results in tight time constraints." 
     }, 
     {
-        "title": "week 5 gitt",
+        "title": "week 5 - Gitting Style",
         "text": "I get flexbox.  amazing how when your forced to use something how easy it then comes.  Also anothere milestone was understanding functions in javascript.  We also were introduced to Sass and bootstrap."  
     }, 
     {
-        "title": "week 6 gitt",
-        "text": "learning grunt"  
+        "title": "week 6 - Gitting it Together",
+        "text": "This week we learned a brand new task manager.  Grunt.  I'm not quite sure what it does.  As of right now, I just know you put a bunch of lines in your terminal and Magic.  Once correctly installed, you're able to more easily detect your errors and work in multiple javaScript files.  "  
     }, 
     {
-        "title": "week 7 gitt",
-        "text": "chat room app"  
+        "title": "week 7 - Gitting Data",
+        "text": "Time for our first javaScript heavy project.  I would be lying if I said I had any clue where to start.  For this project, we created a chat room.  It was important that we made an XHR call to get data of a conversation to display.  The other trick was figuring out how to write a message and have it display in the conversation.  Such simple tasks, so difficult to figure out."  
     }, 
     {
-        "title": "week 8 gitt",
-        "text": "map project"  
+        "title": "week 8 Gitting Organized",
+        "text": "Since we have more experience with XHR calls, we now are going to use them with multiple JSONs.  Our project of the week was to design a virtual theme park map.  This was the first project where we were able to combine our design and coding skilll to develop a product from start to finnish.  Designing with the user in mind and really understanding how to make a code plan were the top takeaways for this week!"  
     },
     {
-        "title": "week 9 gitt",
-        "text": "firebase"  
+        "title": "week 9 - Gitting CRUD",
+        "text": "And we keep on moving forward.  We have been doing great, but all our of applications have been static so far.  Time to add some CRUD and make our pages even more interactive.  Time for firebase.  Even the thought of being able to send and edit information is so crazy to me!  I'm still not entirely sure how the flow works, but I'm learning from my classmates."  
     },
     {
-        "title": "week 10 gitt",
-        "text": "news project"  
+        "title": "week 10 - Gitting APIs",
+        "text": "With the introduction to firebase, we are able to utilize already existing databases.  APIs.  Our project this week required us to pull from multiple APIs.  Reading the documentation and learning how to implement the information was all a learning experience.  We also began to understand how to connect a user profile to our applications.  Using Google we were able to sign in and out of the application."  
     },
     {
-        "title": "week 11 gitt",
-        "text": "capstone - design"  
+        "title": "week 11 - Gitting Insight",
+        "text": "Coming up with the idea for a capstone was difficult for me.  Luckily, I was able to count on my industrial design colleauges to help inspire me.  My friend suggested a collaborative playlist app which I was excited to move forward with.  I did my competitive research and found an opportunity gap.  I realized that there wasn't an easy way for users to create collaborate playlists that didn't require users to have the same music source and wasn't a paid feature.  This lead me to the YouTube API, an API that was free and gave you the option to make playlists free of charge as well.  After interviews, research, prototypes and user testing, I ended the week ready to code."  
     },
     {
-        "title": "week 12 gitt",
-        "text": "capstone - code"  
+        "title": "week 12 - Git R Done",
+        "text": "Now that my app is designed, it's time to make it work!  Even from the very beginning I was falling into the pit of despair.  The constant battle of believing in yourself and believing in failure.  The more I coded though, the more I realized how much I learned and how much I actually know.  I took away two very important lessons from this project.  Number one, take everything step by step.  When you break everything down, what seems to be impossible becomes very possible and actually not that scary.  Number two, DON'T NEST YOUR CODE.  You will end up spending just as much time trying to unnest it as you did writing it.  And it will not be fun.  Despite my struggles, I was able to make a functioning app and would never have believed it three short months ago!"  
     },
     {
-        "title": "week 13 gitt",
-        "text": "charleston"  
+        "title": "week 13 - Git Away",
+        "text": "Sometimes you just need to run away to Charleston for a week long break!"  
     },
     {
-        "title": "week 14 gitt",
-        "text": "react"  
-    }      
+        "title": "week 14 - Gitting Compontents",
+        "text": "After completing my first capstone, I felt I had a great understanding of javaScript.  So why not try something entirely new?  Time for React.  Learning a framework takes work, but doesn't seem as scary when you already have experience in learing a coding language.  The biggest step?  Learning what compotents are and what changing states means.  Just some small concepts I need to understand before becoming a React master.  No big deal."  
+    },      
+    {
+        "title": "week 15 - Getting Experience",
+        "text": "During this week, I participated in Nashville's Hack for the Community Hackathon.  Such a valueable experience considering I was able to collaborate with designers, developers to help create a project for the community.  My role was helping to create a page for an existing healthcare website.  This help to encourage not only donors, but patients as well to intereact with the website."  
+    }  
 ]
 }
