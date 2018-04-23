@@ -1,12 +1,10 @@
 body {
-  font-family: "Roboto", sans-serif;
-}
+  font-family: "Roboto", sans-serif; }
 
 a.navItem {
   position: relative;
   color: #242424;
-  text-decoration: none;
-}
+  text-decoration: none; }
 
 a.navItem:before {
   content: "";
@@ -20,131 +18,105 @@ a.navItem:before {
   -webkit-transform: scaleX(0);
   transform: scaleX(0);
   -webkit-transition: all 0.3s ease-in-out 0s;
-  transition: all 0.3s ease-in-out 0s;
-}
+  transition: all 0.3s ease-in-out 0s; }
 
 a.navItem:hover:before {
   visibility: visible;
   -webkit-transform: scaleX(1);
-  transform: scaleX(1);
-}
+  transform: scaleX(1); }
 
 a.navItem:hover {
   color: #242424;
-  text-decoration: none;
-}
+  text-decoration: none; }
 
 .wrap {
-  width: 80%;
-}
+  width: 80%; }
 
 .main-nav {
-  justify-content: space-between;
-}
+  justify-content: space-between; }
 
 .name {
   font-weight: 100;
   color: #242424;
-  font-size: 1.5em;
-}
+  font-size: 1.5em; }
 
 .pageItem {
   font-weight: 400;
-  color: #242424;
-}
+  color: #242424; }
 
 .navItem {
   font-weight: 100;
-  color: #242424;
-}
+  color: #242424; }
 
 h1 {
   color: #13CBC4;
   font-weight: 300;
   font-size: 2em;
   margin-top: 5em;
-  margin-bottom: 5em;
-}
+  margin-bottom: 5em; }
 
 .project {
-  object-fit: cover;
-}
+  object-fit: cover; }
 
 .proj {
-  justify-content: space-between;
-}
+  justify-content: space-between; }
 
 .links {
-  justify-content: center;
-}
+  justify-content: center; }
 
 .linkIcon {
   width: 30px;
-  height: 30px;
-}
+  height: 30px; }
 
 .copy {
-  font-weight: 100;
-}
+  font-weight: 100; }
 
 .video {
   display: block;
   margin: 0 auto;
   width: 640;
-  text-align: center;
-}
+  text-align: center; }
 
 .profilePic {
   border-radius: 5%;
-  margin-bottom: 10em;
-}
+  margin-bottom: 10em; }
 
 .aboutMe {
-  justify-content: center;
-}
+  justify-content: center; }
 
 .aboutText {
-  width: 35%;
-}
+  width: 35%; }
 
 .aboutTextHeading {
   font-weight: 400;
-  color: #242424;
-}
+  color: #242424; }
 
 .aboutTextBody {
   font-weight: 100;
-  color: #242424;
-}
+  color: #242424; }
 
 .resume {
-  color: #13CBC4;
-}
+  color: #13CBC4; }
 
 .resume:hover {
-  color: #13CBC4;
-}
+  color: #13CBC4; }
 
 .hvrbox,
 .hvrbox * {
-  box-sizing: border-box;
-}
+  box-sizing: border-box; }
 
 .hvrbox {
   position: relative;
   display: inline-block;
   overflow: hidden;
   max-width: 100%;
-  height: auto;
-}
+  height: auto; }
 
 .hvrbox img {
-  max-width: 100%;
-}
+  max-width: 100%; }
 
 .hvrbox .hvrbox-layer_bottom {
-  display: block;
-}
+  display: block; }
 
 .hvrbox .hvrbox-layer_top {
   opacity: 0;
@@ -161,13 +133,11 @@ h1 {
   -moz-transition: all 0.4s ease-in-out 0s;
   -webkit-transition: all 0.4s ease-in-out 0s;
   -ms-transition: all 0.4s ease-in-out 0s;
-  transition: all 0.4s ease-in-out 0s;
-}
+  transition: all 0.4s ease-in-out 0s; }
 
 .hvrbox:hover .hvrbox-layer_top,
 .hvrbox.active .hvrbox-layer_top {
-  opacity: 1;
-}
+  opacity: 1; }
 
 .hvrbox .hvrbox-text {
   text-align: center;
@@ -178,56 +148,48 @@ h1 {
   -moz-transform: translate(-50%, -50%);
   -webkit-transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
-  transform: translate(-50%, -50%);
-}
+  transform: translate(-50%, -50%); }
 
 .hvrboxHeading {
   font-size: 3em;
-  font-weight: 300;
-}
+  font-weight: 300; }
 
 .hvrboxBody {
   font-size: 2em;
-  font-weight: 100;
-}
+  font-weight: 100; }
 
 .projectName {
   color: #242424;
   font-weight: 400;
   font-size: 3em;
-  margin-top: 2em;
-}
+  margin-top: 2em; }
 
 .projectDescription {
   font-weight: 100;
   color: #242424;
   width: 50%;
-  font-size: 1.125em;
-}
+  font-size: 1.125em; }
 
 .projectText {
   font-weight: 100;
   color: #242424;
-  font-size: 1.125em;
-}
+  font-size: 1.125em; }
 
 .title {
   color: #27c3ed;
   font-weight: 400;
   margin-top: 6em;
-  font-size: 1.5em;
-}
+  font-size: 1.5em; }
 
 .wrapBody {
-  width: 60%;
-}
+  width: 60%; }
 
 .text {
-  font-size: 1.125em;
-}
+  font-size: 1.125em; }
 
 .data {
   color: #27c3ed;
   font-size: 1.5em;
-  margin-top: 1em;
-}
+  margin-top: 1em; }
+
+/*# sourceMappingURL=styles.css.map */
