@@ -8,6 +8,24 @@ body {
     font-family: $bodyFont;
 }
 
+h1 {
+    color: $green;
+    font-weight: 300;
+    font-size: 2em;
+    margin-top: 5em;
+    margin-bottom: 5em;
+}
+
+.wrapBody {
+    width: 60%;
+}
+
+.wrap {
+    width: 80%;
+}
+
+// Nav //
+
 a.navItem {
     position: relative;
     color: $black;
@@ -40,10 +58,6 @@ a.navItem:hover {
     text-decoration: none;
 }
 
-.wrap {
-    width: 80%;
-}
-
 .main-nav {
     justify-content: space-between;
 }
@@ -64,21 +78,7 @@ a.navItem:hover {
     color: $black;
 }
 
-h1 {
-    color: $green;
-    font-weight: 300;
-    font-size: 2em;
-    margin-top: 5em;
-    margin-bottom: 5em;
-}
-
-.project {
-    object-fit: cover;
-}
-
-.proj {
-    justify-content: space-between;
-}
+// Footer //
 
 .links {
     justify-content: center;
@@ -93,12 +93,7 @@ h1 {
     font-weight: 100;
 }
 
-.video {
-    display: block;
-    margin: 0 auto;
-    width: 640;
-    text-align: center;
-}
+// About Me //
 
 .profilePic {
     border-radius: 5%;
@@ -125,10 +120,21 @@ h1 {
 
 .resume {
     color: $green;
+    font-weight: 300;
 }
 
 .resume:hover {
     color: $green;
+}
+
+// Projects //
+
+.project {
+    object-fit: cover;
+}
+
+.proj {
+    justify-content: space-between;
 }
 
 .hvrbox,
@@ -191,10 +197,12 @@ h1 {
     font-weight: 100; 
 }
 
+// Case Study //
+
 .projectName {
     color: $black;
     font-weight: 400;
-    font-size: 3em;
+    font-size: 2.5em;
     margin-top: 2em;
 }
 
@@ -205,12 +213,6 @@ h1 {
     font-size: 1.125em;
 }
 
-.projectText {
-    font-weight: 100;
-    color: $black;
-    font-size: 1.125em;
-}
-
 .title {
     color: $blue;
     font-weight: 400;
@@ -218,16 +220,80 @@ h1 {
     font-size: 1.5em;
 }
 
-.wrapBody {
-    width: 60%;
+.subheading {
+    font-size: 1.25em;
 }
 
-.text {
+.projectText {
+    font-weight: 100;
+    color: $black;
     font-size: 1.125em;
 }
 
+.vibeImage {
+    margin-top: 6em;
+}
+
+.vibeDescription {
+    margin-top: 4em;
+}
+
+.gitHub {
+    margin-bottom: 8em;
+}
+
+// User Research //
+
 .data {
     color: $blue;
-    font-size: 1.5em;
+    font-size: 1.25em;
+}
+
+// Target Market //
+
+.lukeProfile {
+    display: flex;
+    flex-direction: row;
+}
+
+.characteristics {
+    display: flex;
+    flex-direction: column;
+}
+
+.char {
+    padding: 0 2em;
+    margin-left: 3em;
+    color: #ffffff;
+    background-color: $blue;
+    border: 2px solid $blue;
+    border-radius: 2em;
+}
+
+.lukeQuote {
+    color: $blue;
+    padding-left: 2em;
+    font-weight: 300;
+}
+
+.lukeText {
+    padding-left: 2em;
+}
+
+.marketText {
+    width: 55%;
+}
+
+// Journey Map //
+
+.map {
     margin-top: 1em;
+    margin-left: 7%;
+}
+
+// Git Hub //
+
+a.vibeGitHub {
+    color: $blue;
+    text-decoration: none;
 }
