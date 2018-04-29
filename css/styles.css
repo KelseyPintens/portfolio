@@ -2,6 +2,22 @@ body {
   font-family: "Roboto", sans-serif;
 }
 
+h1 {
+  color: #13CBC4;
+  font-weight: 300;
+  font-size: 2em;
+  margin-top: 5em;
+  margin-bottom: 5em;
+}
+
+.wrapBody {
+  width: 60%;
+}
+
+.wrap {
+  width: 80%;
+}
+
 a.navItem {
   position: relative;
   color: #242424;
@@ -34,10 +50,6 @@ a.navItem:hover {
   text-decoration: none;
 }
 
-.wrap {
-  width: 80%;
-}
-
 .main-nav {
   justify-content: space-between;
 }
@@ -58,22 +70,6 @@ a.navItem:hover {
   color: #242424;
 }
 
-h1 {
-  color: #13CBC4;
-  font-weight: 300;
-  font-size: 2em;
-  margin-top: 5em;
-  margin-bottom: 5em;
-}
-
-.project {
-  object-fit: cover;
-}
-
-.proj {
-  justify-content: space-between;
-}
-
 .links {
   justify-content: center;
 }
@@ -85,13 +81,6 @@ h1 {
 
 .copy {
   font-weight: 100;
-}
-
-.video {
-  display: block;
-  margin: 0 auto;
-  width: 640;
-  text-align: center;
 }
 
 .profilePic {
@@ -119,10 +108,19 @@ h1 {
 
 .resume {
   color: #13CBC4;
+  font-weight: 300;
 }
 
 .resume:hover {
   color: #13CBC4;
+}
+
+.project {
+  object-fit: cover;
+}
+
+.proj {
+  justify-content: space-between;
 }
 
 .hvrbox,
@@ -194,7 +192,7 @@ h1 {
 .projectName {
   color: #242424;
   font-weight: 400;
-  font-size: 3em;
+  font-size: 2.5em;
   margin-top: 2em;
 }
 
@@ -205,12 +203,6 @@ h1 {
   font-size: 1.125em;
 }
 
-.projectText {
-  font-weight: 100;
-  color: #242424;
-  font-size: 1.125em;
-}
-
 .title {
   color: #27c3ed;
   font-weight: 400;
@@ -218,16 +210,72 @@ h1 {
   font-size: 1.5em;
 }
 
-.wrapBody {
-  width: 60%;
+.subheading {
+  font-size: 1.25em;
 }
 
-.text {
+.projectText {
+  font-weight: 100;
+  color: #242424;
   font-size: 1.125em;
+}
+
+.vibeImage {
+  margin-top: 6em;
+}
+
+.vibeDescription {
+  margin-top: 4em;
+}
+
+.gitHub {
+  margin-bottom: 8em;
 }
 
 .data {
   color: #27c3ed;
-  font-size: 1.5em;
+  font-size: 1.25em;
+}
+
+.lukeProfile {
+  display: flex;
+  flex-direction: row;
+}
+
+.characteristics {
+  display: flex;
+  flex-direction: column;
+}
+
+.char {
+  padding: 0 2em;
+  margin-left: 3em;
+  color: #ffffff;
+  background-color: #27c3ed;
+  border: 2px solid #27c3ed;
+  border-radius: 2em;
+}
+
+.lukeQuote {
+  color: #27c3ed;
+  padding-left: 2em;
+  font-weight: 300;
+}
+
+.lukeText {
+  padding-left: 2em;
+}
+
+.marketText {
+  width: 55%;
+}
+
+.map {
   margin-top: 1em;
+  margin-left: 7%;
+}
+
+a.vibeGitHub {
+  color: #27c3ed;
+  text-decoration: none;
 }
