@@ -203,6 +203,13 @@ a.navItem:hover {
   font-size: 1.125em;
 }
 
+.projectGoal {
+  font-weight: 400;
+  color: #242424;
+  width: 50%;
+  font-size: 1.125em;
+}
+
 .title {
   color: #27c3ed;
   font-weight: 400;
