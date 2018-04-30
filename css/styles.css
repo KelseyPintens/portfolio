@@ -239,6 +239,13 @@ a.navItem:hover {
   margin-bottom: 8em;
 }
 
+.researchImage {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 .data {
   color: #27c3ed;
   font-size: 1.25em;

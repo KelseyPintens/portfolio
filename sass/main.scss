@@ -251,6 +251,13 @@ a.navItem:hover {
 
 // User Research //
 
+.researchImage {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
 .data {
     color: $blue;
     font-size: 1.25em;
