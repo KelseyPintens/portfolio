@@ -4,6 +4,7 @@ $black: #242424;
 $green: #13CBC4;
 $blue: #27c3ed;
 $red: #dd3333;
+$green: #0cb017;
 
 body {
     font-family: $bodyFont;
@@ -230,6 +231,13 @@ a.navItem:hover {
 
 .titleRed {
     color: $red;
+    font-weight: 400;
+    margin-top: 6em;
+    font-size: 1.5em;
+}
+
+.titleGreen {
+    color: $green;
     font-weight: 400;
     margin-top: 6em;
     font-size: 1.5em;
