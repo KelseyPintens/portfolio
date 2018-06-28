@@ -320,3 +320,26 @@ a.vibeGitHub {
   color: #27c3ed;
   text-decoration: none;
 }
+
+a.luluGitHub {
+  color: #0cb017;
+  text-decoration: none;
+}
+
+.bullets {
+  margin-left: 35%;
+}
+
+.dataGreen {
+  color: #0cb017;
+  font-size: 1.25em;
+}
+
+.apps {
+  display: flex;
+  flex-direction: row;
+}
+
+.green {
+  color: #0cb017;
+}

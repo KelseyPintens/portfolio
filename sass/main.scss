@@ -342,4 +342,28 @@ a.vibeGitHub {
     text-decoration: none;
 }
 
+a.luluGitHub {
+    color: $lulugreen;
+    text-decoration: none;
+}
 
+
+// LULU Bug //
+
+.bullets {
+    margin-left: 35%;
+} 
+
+.dataGreen {
+    color: $lulugreen;
+    font-size: 1.25em;
+}
+
+.apps {
+    display: flex;
+    flex-direction: row;
+}
+
+.green {
+    color: $lulugreen;
+}
