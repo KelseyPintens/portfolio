@@ -343,3 +343,189 @@ a.luluGitHub {
 .green {
   color: #0cb017;
 }
+
+@media only screen and (max-width: 600px) {
+  
+  .mx-5 {
+    margin-right: 0!important;
+    margin-left: 4rem!important;
+  }
+
+  h1 {
+    color: #13CBC4;
+    font-weight: 300;
+    font-size: 1.125em;
+    margin-top: 2em;
+    margin-bottom: 2em;
+  }
+
+  .profilePic {
+    width:70%!important;
+    height:70%!important;
+    margin-bottom: 2em!important;
+}
+
+.aboutText {
+  width: 70%;
+}
+
+.aboutTextBody {
+  margin-bottom: 2em!important;
+}
+
+.hvrbox .hvrbox-layer_top {
+display: none;
+}
+
+
+.projectName {
+  margin-top: .5em!important;
+}
+
+.projectDescription {
+  width: 100%!important;
+}
+
+.projectGoal {
+  margin-top: .5em!important;
+  width: 100%!important;
+}
+
+.title {
+  margin-top: 3em!important;
+}
+
+.projectText {
+  width: 100%!important;
+  text-align: center!important;
+}
+
+.text {
+  margin-top: 1em;
+}
+
+
+.data {
+  text-align: center;
+  margin-top: 1em;
+}
+
+.lukeProfile {
+  display: flex;
+  flex-direction: column;
+}
+
+.lukeimg {
+  width: 100%;
+  height: 100%;
+  justify-content: center;
+}
+
+.char {
+  padding: 0!important;
+  width: 8em!important;
+  margin-top: 1em;
+  text-align: center;
+}
+
+.lukeQuote {
+  padding-left: 0em;
+  margin-top: 2em!important;
+  width: 100%;
+}
+
+
+.lukeText {
+  padding-left: 0em;
+}
+
+.vibeImage {
+  margin-top: 6em;
+  width: 100%!important;
+  height: 100%!important;
+  align-content: center;
+  justify-content: center!important;
+}
+
+.col-5 {
+  flex: none!important;
+  max-width: none!important;
+}
+
+.col-7 {
+  flex: none!important;
+  max-width: none!important;
+}
+
+.col-3 {
+  flex: none!important;
+  max-width: none!important;
+}
+
+.title {
+  text-align: center;
+}
+
+.arrowimg {
+  display: none;
+}
+
+.dataGreen {
+  text-align: center;
+}
+
+.col {
+  flex: none!important;
+  max-width: none!important;
+  margin-top: 1em;
+  align-content: center;
+}
+
+.subheading {
+  text-align: center;
+}
+
+.scottieimg {
+  height: 100%;
+  width: 100%;
+}
+
+.ml-4 {
+  margin-left: 0!important;
+  text-align: center;
+  margin-top: 1em;
+}
+
+.col-8 {
+  flex: none!important;
+  max-width: none!important;
+}
+
+.col-4 {
+  flex: none!important;
+  max-width: none!important;
+}
+
+.coledit {
+  flex: none!important;
+  max-width: none!important;
+}
+
+.titleRed {
+  text-align: center;
+}
+
+.cycleImage {
+  padding-left: 3.5em!important;
+}
+
+}
+
+@media only screen and (max-width: 320px) {
+  
+  .mx-5 {
+    margin-right: 0!important;
+    margin-left: 2.5rem!important;
+  }
+
+}
